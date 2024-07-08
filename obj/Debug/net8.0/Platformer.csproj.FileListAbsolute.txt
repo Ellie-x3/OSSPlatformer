@@ -20,3 +20,4 @@ E:\GameDev\Foster\Platformer\obj\Debug\net8.0\refint\Platformer.dll
 E:\GameDev\Foster\Platformer\obj\Debug\net8.0\Platformer.pdb
 E:\GameDev\Foster\Platformer\obj\Debug\net8.0\Platformer.genruntimeconfig.cache
 E:\GameDev\Foster\Platformer\obj\Debug\net8.0\ref\Platformer.dll
+E:\GameDev\Foster\Platformer\obj\Debug\net8.0\Platformer.sourcelink.json

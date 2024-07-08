@@ -1,5 +1,6 @@
 namespace Platformer.Actors;
 
-public static class Manager {
-    
+public static class Manager
+{
+
 }
